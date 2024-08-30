@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\Task1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7886BD26-952B-4F76-9DD4-8987B3F08316}|Task1\\Task1.csproj|c:\\users\\lenovo\\desktop\\task1\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7886BD26-952B-4F76-9DD4-8987B3F08316}|Task1\\Task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7886BD26-952B-4F76-9DD4-8987B3F08316}|Task1\\Task1.csproj|c:\\users\\lenovo\\desktop\\task1\\task1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7886BD26-952B-4F76-9DD4-8987B3F08316}|Task1\\Task1.csproj|solutionrelative:task1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7886BD26-952B-4F76-9DD4-8987B3F08316}|Task1\\Task1.csproj|c:\\users\\lenovo\\desktop\\task1\\task1\\groupmate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7886BD26-952B-4F76-9DD4-8987B3F08316}|Task1\\Task1.csproj|solutionrelative:task1\\groupmate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GroupMate.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Task1\\Task1\\GroupMate.cs",
+              "RelativeDocumentMoniker": "Task1\\GroupMate.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Task1\\Task1\\GroupMate.cs",
+              "RelativeToolTip": "Task1\\GroupMate.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T17:44:35.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Task1\\Task1\\Student.cs",
+              "RelativeDocumentMoniker": "Task1\\Student.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Task1\\Task1\\Student.cs",
+              "RelativeToolTip": "Task1\\Student.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T17:43:14.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Task1\\Task1\\Program.cs",
+              "RelativeDocumentMoniker": "Task1\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Task1\\Task1\\Program.cs",
+              "RelativeToolTip": "Task1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T17:42:26.323Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
